@@ -6,6 +6,8 @@
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoDiego67&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDiego67)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies that I'm use
 
 <div style="display: inline_block"><br/>
