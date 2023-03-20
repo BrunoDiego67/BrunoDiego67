@@ -4,9 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brunodiegotrebeschipozzer-162314194)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/brunotrebesc)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoDiego67&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDiego67)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies that I'm use
 
