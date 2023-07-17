@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Software Developer](https://www.upwork.com/nx/find-work/best-matches)
 
-- My Site [https://sites.google.com/view/brunotrebeschi/portfolio](https://sites.google.com/view/brunotrebeschi/portfolio)
+- My Site [https://brunotrebeschi.my.canva.site/)
 
 - 💬 Ask me about **JAVASCRIPT, NODE.JS e POSTGRESQL**
 
