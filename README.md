@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://www.hackerrank.com/bruno67diego?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.hackerrank.com/bruno67diego?hr_r=1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brunotrebeschi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brunotrebeschi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brunotrebeschi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brunotrebeschi/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/bruno67diego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bruno67diego/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/brunotrebesc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/brunotrebesc" height="30" width="40" /></a>
 <a href="https://discord.gg/brunodiego." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="brunodiego." height="30" width="40" /></a>
