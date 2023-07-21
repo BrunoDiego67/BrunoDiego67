@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Bruno Trebeschi</h1>
-<h3 align="center">I'm working with Data Analyst</h3>
+<h3 align="center">I'm working with Software Engineering</h3>
 
 - 🔭 I’m currently working on [Software Engineering](https://www.upwork.com/nx/find-work/best-matches)
 
