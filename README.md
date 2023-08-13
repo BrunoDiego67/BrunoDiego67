@@ -1,6 +1,6 @@
 ## Hello! My name's Bruno Trebeschi 🖐️
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="320" src="https://img.freepik.com/free-vector/creative-web-homepage-illustration_52683-79847.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="260" src="https://img.freepik.com/free-vector/creative-web-homepage-illustration_52683-79847.jpg">
 
 <p align="justify">Back-end Developer from São Paulo-SP, Brazil, Graduated in Software Engineering. 
 
