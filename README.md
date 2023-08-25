@@ -1,8 +1,10 @@
-## Hello! My name's Bruno Trebeschi 🖐️
+## Olá! Meu nome é Bruno Trebeschi🖐️
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="220" src="https://img.freepik.com/free-vector/creative-web-homepage-illustration_52683-79847.jpg">
 
-<p align="justify">Back-end Developer from São Paulo-SP, Brazil, Graduated in Software Engineering. 
+<h2>Sobre Mim</h2>
+
+<p align="justify">Possuo uma sólida formação inclui um curso técnico em Desenvolvimento de Sistemas e uma bolsa na Cubo Academy em Back End. Com uma carreira diversificada, você já trabalhou na área de TI no Hospital de Aguaí, trabalhando no desenvolvimento e manutenção de computadores, além de ter atuado como UX/UI Designer na Ioasys, melhorando a experiência do cliente e garantindo a aplicação do Design System. Com essa variedade de habilidades e experiências, estou bem preparado para crescer em sua carreira na tecnologia da informação e desenvolvimento de sistemas, estou em busca de novos desafios e disposto aprender a programar.
 
 <h3 align="left">Connect with me</h3>
 
