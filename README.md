@@ -8,7 +8,7 @@
 
 <h2>Sobre Mim</h2>
 
-<p align="justify">Possuo uma sólida formação inclui um curso técnico em Desenvolvimento de Sistemas e uma bolsa na Cubo Academy em Back End. Com uma carreira diversificada, você já trabalhou na área de TI no Hospital de Aguaí, trabalhando no desenvolvimento e manutenção de computadores, além de ter atuado como UX/UI Designer na Ioasys, melhorando a experiência do cliente e garantindo a aplicação do Design System. Com essa variedade de habilidades e experiências, estou bem preparado para crescer em sua carreira na tecnologia da informação e desenvolvimento de sistemas, estou em busca de novos desafios e disposto a aprender novas linguagens de programação.
+<p align="justify">Sou apaixonado por Star Wars, pratico esportes e sou chocólatra. Tenho sólida formação em tecnologia da informação, incluindo cursos técnicos e experiência em TI e como UX/UI Designer na Ioasys. Minha trajetória diversificada me prepara para crescer na carreira e destacar-me em projetos futuros na área de tecnologia.
 
 <h2 align="left">Entre em Contato</h2>
 
