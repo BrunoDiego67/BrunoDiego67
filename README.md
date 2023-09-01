@@ -8,7 +8,7 @@
 
 <h2>Sobre Mim</h2>
 
-<p align="justify">Sou apaixonado por Star Wars, pratico esportes e sou chocólatra. Tenho sólida formação em tecnologia da informação, incluindo cursos técnicos e experiência em TI e como UX/UI Designer na Ioasys. Minha trajetória diversificada me prepara para crescer na carreira e destacar-me em projetos futuros na área de tecnologia.
+<p align="justify">Sou apaixonado por Star Wars, pratico esportes e sou chocólatra. Tenho sólida formação em tecnologia da informação, incluindo cursos técnicos e experiência em TI e como UX/UI Designer na Ioasys. Minha trajetória diversificada me prepara para crescer na carreira e destacar-me em projetos futuros na área de tecnologia, estou disposto a aprender novas linguagens de programação..
 
 <h2 align="left">Entre em Contato</h2>
 
