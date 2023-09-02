@@ -1,7 +1,3 @@
-<a href="https://github.com/BrunoDiego67/BrunoDiego67#readme">PT-BR</a>       
-<a href="https://github.com/BrunoDiego67/BrunoDiego67En/blob/main/README.md">EN-US</a>
-
-
 ## Olá! Meu nome é Bruno Trebeschi🖐️
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="220" src="https://img.freepik.com/free-vector/creative-web-homepage-illustration_52683-79847.jpg">
