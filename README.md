@@ -4,7 +4,7 @@
 
 <h2>Sobre Mim</h2>
 
-<p align="justify">Sou apaixonado por Star Wars, pratico esportes e sou chocólatra. Tenho sólida formação em tecnologia da informação, incluindo cursos técnicos e experiência em TI e Gestão Financeira. Minha trajetória diversificada me prepara para crescer na carreira e destacar-me em projetos futuros na área de tecnologia e finanças, estou disposto a aprender e me dedicar a novas habilidades.
+<p align="justify">Sou apaixonado por Star Wars, pratico esportes e sou chocólatra. Tenho sólida formação em tecnologia da informação, incluindo cursos técnicos e experiência em TI e Desenvolvimento de Sistemas, Minha trajetória diversificada me prepara para crescer na carreira e destacar-me em projetos futuros na área de tecnologia e programação, estou disposto a aprender e me dedicar a novas habilidades.
 
 <h2 align="left">Entre em Contato</h2>
 
