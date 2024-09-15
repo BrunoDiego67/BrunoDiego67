@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Bruno Trebeschi🖐️
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://studybird.in/wp-content/uploads/2018/04/Image-6.jpg">
 
 <h2>Sobre Mim</h2>
 
