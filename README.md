@@ -4,7 +4,7 @@
 
 <h2>Sobre Mim</h2>
 
-<p align="justify">Sou um programador de front-end com formação no curso de desenvolvimento de sistemas do IFSUL de Minas, especialização em front-end pela Alura e um curso de técnico em informática pela Data Center Informática. Minha sólida base acadêmica e experiência em design UX/UI me tornam um profissional versátil, capaz de contribuir efetivamente no desenvolvimento de interfaces interativas. Minha combinação de habilidades técnicas e conhecimentos em infraestrutura destaca minha versatilidade no campo da programação de front-end. Continuo buscando atualizações para me manter competitivo no setor.
+<p align="justify">Sou um programador fullstack com formação no curso de desenvolvimento de sistemas do IFSUL de Minas, especialização em front-end pela Alura e um curso de técnico em informática pelo senac. Minha sólida base acadêmica e experiência em design UX/UI me tornam um profissional versátil, capaz de contribuir efetivamente no desenvolvimento de interfaces interativas. Minha combinação de habilidades técnicas e conhecimentos em infraestrutura destaca minha versatilidade no campo da programação de fullstack. Continuo buscando atualizações para me manter competitivo no setor.
 
 <h2 align="left">Entre em Contato</h2>
 
